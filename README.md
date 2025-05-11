@@ -19,7 +19,7 @@ This project performs sentiment analysis on tweets related to the AstraZeneca CO
 
 ## 🎥 Project Presentation
 
-Watch our presentation: [Google Drive Link](https://drive.google.com/drive/folders/1Qu9OXXkZcK0_NJ1kGUJdtRl04HI8U3vr)
+Watch our presentation: [Google Drive Link](https://drive.google.com/file/d/1AKCKQPkTgU_Lu_4GoFG39W3__1N-nPK1/view?usp=sharing)
 
 ## 🚀 Project Workflow
 
