@@ -30,24 +30,24 @@ This project performs sentiment analysis on tweets related to the AstraZeneca CO
 - Analyze polarity & subjectivity statistics
 - Visualize:
  #### 📊 Polarity Distribution
-![Polarity Distribution](polarity-distribution.png)
+![Polarity Distribution](output-visualization/polarity-distribution.png)
 
 #### 📊 Subjectivity Distribution
-![Subjectivity Distribution](subjetivity-polarity.png)
+![Subjectivity Distribution](output-visualization/subjetivity-polarity.png)
 
 #### 🧩 Sentiment Pairplot
-![Pairplot](pairplot.png)
+![Pairplot](output-visualization/pairplot.png)
 
 ### 3. Word Clouds
 
 #### 😊 Positive Tweets
-![Positive Word Cloud](positive-tweets-wordcloud.png)
+![Positive Word Cloud](output-visualization/positive-tweets-wordcloud.png)
 
 #### 😐 Neutral Tweets
-![Neutral Word Cloud](neutral-tweets-wordcloud.png)
+![Neutral Word Cloud](output-visualization/neutral-tweets-wordcloud.png)
 
 #### 😡 Negative Tweets
-![Negative Word Cloud](negative-tweets-wordcloud.png)
+![Negative Word Cloud](output-visualization/negative-tweets-wordcloud.png)
 
 ### 3. **Feature Extraction**
 - Use `CountVectorizer` to convert tweets to numerical vectors
